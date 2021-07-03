@@ -1,0 +1,21 @@
+*This IPL analysis is based up on two data set they are matches and deleveries.
+
+*It contains the data of the following 15 teams from year 2008 to 2019.
+	Delhi Capitals
+	Rising Pune Supergiant	
+	Mumbai Indians	
+	Chennai Super Kings	
+	Sunrisers Hyderabad	
+	Kolkata Knight Riders	
+	Kings XI Punjab		
+	Royal Challengers Bangalore
+	Rajasthan Royals	
+	Delhi Daredevils	
+	Kochi Tuskers Kerala	
+	Pune Warriors		
+	Deccan Chargers		
+	Rising Pune Supergiants	
+	Gujarat Lions
+
+*It contains the data for every batsman and bowler played, ball data, run, wicket data, 
+dismarsal data, winning data, venue data etc
